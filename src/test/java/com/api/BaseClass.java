@@ -9,7 +9,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseBody;
 import io.restassured.specification.RequestSpecification;
-
+@@@@@@@@@@@@@#############
 public class BaseClass {
 
 		RequestSpecification reqspec;
